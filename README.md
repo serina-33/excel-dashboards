@@ -35,10 +35,12 @@ The dashboards are designed to simplify **data analysis** and provide clear busi
 ## 📷 Screenshots
 
 ### Sales Dashboard
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard]([WhatsApp Image 2025-08-25 at 8 29 47 PM](https://github.com/user-attachments/assets/fc575bfc-b995-489e-9d42-375248abe997)
+)
 
 ### Finance Dashboard
-![Finance Dashboard](Finance_Dashboard.png)
+![Finance Dashboard]([WhatsApp Image 2025-08-25 at 8 30 52 PM](https://github.com/user-attachments/assets/de494299-2b69-453c-8851-071a1f76b59f)
+)
 
 ---
 
