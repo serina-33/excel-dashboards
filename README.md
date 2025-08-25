@@ -46,9 +46,10 @@ The dashboards are designed to simplify **data analysis** and provide clear busi
 
 ## 📂 How to Use
 1. Download the Excel file:  
-   👉 [Excel_Dashboards.xlsx](./Excel_Dashboards.xlsx)
-2. Open in Microsoft Excel (2016 or later recommended).
-3. Use slicers (month/category filters) to interact with the dashboards.
+   👉 [Excel_Dashboards.xlsx](1. https://1drv.ms/x/c/f4f136884c6a0b9f/EactKw7WR6lPq1aGYBeho_4Bn9D7MMROwTjWqWRCevi3XQ?e=JxCidG
+   2.https://1drv.ms/x/c/f4f136884c6a0b9f/Ee3aoJMDUIlJiBX2ojUZENoBckyslcLqiHvPVMWlOgkPUw?e=8bKFUL )
+3. Open in Microsoft Excel (2016 or later recommended).
+4. Use slicers (month/category filters) to interact with the dashboards.
 
 ---
 
